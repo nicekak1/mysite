@@ -1,2 +1,2 @@
 # mysite
-เป็นเว็บไซต์ที่เียนขึ้นเพื่อแนะนำตัวเองและมีงานต่างๆของผมอยูในนั้น
+It's a website created to introduce myself and have a lot of my work in it.
